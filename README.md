@@ -17,5 +17,5 @@
 | -------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
 | ![Imagem 1](https://github.com/jardessonrb/UFPI-PDI/blob/main/atividade01/projetoatv01/src/imagens/q1/folha_adjacencia_4.png) | ![Imagem 2](https://github.com/jardessonrb/UFPI-PDI/blob/main/atividade01/projetoatv01/src/imagens/q1/folha_adjacencia_8.png) | ![Imagem 3](https://github.com/jardessonrb/UFPI-PDI/blob/main/atividade01/projetoatv01/src/imagens/q1/folha_adjacencia_m.png) |
 
-#### Com o mesmo algoritmo [Algoritmos](https://github.com/jardessonrb/UFPI-PDI/tree/main/atividade01/projetoatv01/src) foi possível identificar e criar imagens baseadas nas
+#### Com o mesmo [Algoritmo](https://github.com/jardessonrb/UFPI-PDI/tree/main/atividade01/projetoatv01/src) foi possível identificar e criar imagens baseadas nas
 #### fronteiras determinadas pelo valor de intensidade entre os pixels, usando a ideia de adjacência entre pixels.
